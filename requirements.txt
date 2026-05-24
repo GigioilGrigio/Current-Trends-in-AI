@@ -1,3 +1,10 @@
-numpy
-pandas
-matplotlib
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-google-vertexai
+faiss-cpu
+python-dotenv
+youtube-transcript-api
+google-generativeai
+google-cloud-aiplatform
