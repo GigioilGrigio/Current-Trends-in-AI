@@ -14,7 +14,7 @@ This project lets you ask questions about a YouTube video by:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/youtube-qa-bot.git
+git clone https://github.com/----------
 ```
 
 ### 2. Create virtual enviroment
