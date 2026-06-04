@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-05-26T11:47:46.360240",
+  "video_url": "https://www.youtube.com/watch?v=2P27Ef-LLuQ",
+  "scores": {
+    "How does Sam Altman describe OpenAI's strategy to win against competitors?": {
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.857,
+      "grounding_score": 1.0,
+      "elements_coverage": 1.0,
+      "faithfulness": 0.5
+    },
+    "What does Sam Altman say about the future of ChatGPT?": {
+      "precision_at_k": 0.75,
+      "recall_at_k": 0.4,
+      "grounding_score": 0.5,
+      "elements_coverage": 0.5,
+      "faithfulness": 0.0
+    },
+    "What is the reasoning behind OpenAI's large infrastructure investments?": {
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.6,
+      "grounding_score": 1.0,
+      "elements_coverage": 1.0,
+      "faithfulness": 0.75
+    },
+    "What are OpenAI's IPO plans?": {
+      "precision_at_k": 0.5,
+      "recall_at_k": 0.4,
+      "grounding_score": 0.5,
+      "elements_coverage": 0.5,
+      "faithfulness": 0.0
+    },
+    "What does Sam Altman say about the impact of AI on jobs?": {
+      "precision_at_k": 1.0,
+      "recall_at_k": 0.6,
+      "grounding_score": 0.5,
+      "elements_coverage": 0.5,
+      "faithfulness": 0.0
+    }
+  }
+}
