@@ -59,7 +59,7 @@ gcloud projects list
 
 Run the Youtube_bot.ipynb or Youtube_bot.py file.
 
-Feel free to customize and change the video url and prompt
+Feel free to customize and change the video url and prompt. Although the evaluation gold set is specific video we choose.
 
 ## How It Works
 
