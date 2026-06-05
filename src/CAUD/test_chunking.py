@@ -34,8 +34,8 @@ Interpretation:
 - This lets us later evaluate retrieval scores, LLM citations, leave-one-out attribution, and optional Shapley-style attribution against gold supporting chunks.
 """
 
-from dataset import load_cuad
-from chunking import chunk_text, find_supporting_chunks
+from CAUD.dataset import load_cuad
+from CAUD.chunking import chunk_text, find_supporting_chunks
 
 
 def main():

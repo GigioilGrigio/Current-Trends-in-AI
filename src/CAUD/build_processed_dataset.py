@@ -89,8 +89,8 @@ How this connects to later pipeline stages:
 import json
 from pathlib import Path
 
-from dataset import load_cuad
-from chunking import chunk_text, find_supporting_chunks
+from CAUD.dataset import load_cuad
+from CAUD.chunking import chunk_text, find_supporting_chunks
 
 
 def build_processed_dataset(

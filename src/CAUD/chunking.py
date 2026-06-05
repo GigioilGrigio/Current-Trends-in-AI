@@ -128,8 +128,8 @@ def find_supporting_chunks(
     return supporting_chunks
 
 
-from dataset import load_cuad
-from chunking import chunk_text, find_supporting_chunks
+from CAUD.dataset import load_cuad
+from CAUD.chunking import chunk_text, find_supporting_chunks
 
 
 def main():
